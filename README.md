@@ -15,10 +15,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rayanmuryell.rayanmuryell&"  />
-</div>
-
 ###
 
 <h1 align="center">Hey! Tudo bem? 👋</h1>
