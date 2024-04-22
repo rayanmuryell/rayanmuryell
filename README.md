@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">Desenvolvedor fullstack e cursando Análise e Desenvolvimento de Sistemas.<br>E eu sou de Alagoas, Brasil. 🌴☀<br><br>- 🔭Atualmente desenvolvendo projetos pessoais;<br>- 📚 Estudando React e NodeJS.</p>
+<p align="left">Desenvolvedor fullstack e cursando Análise e Desenvolvimento de Sistemas.<br>E eu sou de Alagoas, Brasil. 🌴☀<br><br>- 📊 Atualmente participando da equipe da MIP.;<br>- 📚 Estudando React e NodeJS.</p>
 
 ###
 
