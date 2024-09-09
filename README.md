@@ -25,26 +25,23 @@
 
 ###
 
-<p align="left">Desenvolvedor fullstack e cursando Análise e Desenvolvimento de Sistemas.<br>E eu sou de Alagoas, Brasil. 🌴☀<br><br>- 📊 Atualmente participando da equipe da MIP.;<br>- 📚 Estudando React e NodeJS.</p>
+<p align="left">Cursando Análise e Desenvolvimento de Sistemas.<br>Sou de Alagoas, Brasil. 🌴☀<br></p>
+Trabalhei 4 anos como Analista de Planejamento de callcenters, utilizando Excel, Power BI e SQL para análise de indicadores. Atualmente estou tentando ingressar na Engenharia de Dados.
 
-###
 
-<h3 align="left">🛠 Linguagens e ferramentas</h3>
+<h3 align="left"><br>📊 Estudando:</h3>
 
-###
+- Python;
+- Apache Spark / PySpark;
+- Pipelines.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
+<h3 align="left"><br>🪄 Habilidades:</h3>
 
-###
+- Excel;
+- Power BI;
+- ETL;
+- VBA;
+- Selenium;
+- SQL.
+
+
