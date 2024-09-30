@@ -26,14 +26,15 @@
 ###
 
 <p align="left">Cursando Análise e Desenvolvimento de Sistemas.<br>Sou de Alagoas, Brasil. 🌴☀<br></p>
-Trabalhei 4 anos como Analista de Planejamento de callcenters, utilizando Excel, Power BI e SQL para análise de indicadores. Atualmente estou tentando ingressar na Engenharia de Dados.
+Trabalhei 4 anos como Analista de Planejamento de callcenters, utilizando Excel, Power BI e SQL para análise de indicadores.
 
 
 <h3 align="left"><br>📊 Estudando:</h3>
 
 - Python;
 - Apache Spark / PySpark;
-- Pipelines.
+- Pipelines;
+- Machine Learning.
 
 <h3 align="left"><br>🪄 Habilidades:</h3>
 
