@@ -26,7 +26,7 @@
 ###
 
 <p align="left">Cursando Análise e Desenvolvimento de Sistemas.<br>Sou de Alagoas, Brasil. 🌴☀<br></p>
-Trabalhei 4 anos como Analista de Planejamento de callcenters, utilizando Excel, Power BI e SQL para análise de indicadores.
+4 anos como Analista de Planejamento de callcenters, utilizando Excel, Power BI e SQL para análise de indicadores e tomadas de decisões.
 
 
 <h3 align="left"><br>📊 Estudando:</h3>
