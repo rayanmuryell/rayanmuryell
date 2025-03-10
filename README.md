@@ -24,25 +24,4 @@
 <h3 align="left">👨‍💻 Sobre mim</h3>
 
 ###
-
-<p align="left">Análise e Desenvolvimento de Sistemas.<br>Sou de Alagoas, Brasil. 🌴☀<br></p>
 Analista de Planejamento, utilizando Excel, Power BI e SQL para análise de indicadores e tomadas de decisões.
-
-
-<h3 align="left"><br>📊 Estudando:</h3>
-
-- Python;
-- Apache Spark / PySpark;
-- Pipelines;
-- Machine Learning.
-
-<h3 align="left"><br>🪄 Habilidades:</h3>
-
-- Excel;
-- Power BI;
-- ETL;
-- VBA;
-- Selenium;
-- SQL.
-
-
